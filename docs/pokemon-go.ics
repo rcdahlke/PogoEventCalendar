@@ -7,7 +7,7 @@ X-WR-CALNAME:Pokémon GO Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 UID:pokemon-night-out-los-angeles-2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261025T023000Z
 DTEND:20261025T065959Z
 SUMMARY:Pokémon Night Out 2026 - Los Angeles
@@ -16,7 +16,7 @@ DESCRIPTION:https://leekduck.com/events/pokemon-night-out-los-angeles-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-orionids-2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261019T220000Z
 DTEND:20261025T045900Z
 SUMMARY:Minior Showers: Orionids 2026
@@ -25,7 +25,7 @@ DESCRIPTION:https://leekduck.com/events/minior-showers-orionids-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261027T150000Z
 DTEND:20261101T160000Z
 SUMMARY:Pokémon GO Halloween 2026 Part I
@@ -34,7 +34,7 @@ DESCRIPTION:https://leekduck.com/events/halloween-2026-part-1/
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261101T160000Z
 DTEND:20261106T020000Z
 SUMMARY:Pokémon GO Halloween 2026 Part II
@@ -43,7 +43,7 @@ DESCRIPTION:https://leekduck.com/events/halloween-2026-part-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261106T010000Z
 DTEND:20261108T090000Z
 SUMMARY:Pokémon GO Wild Area 2026: Sendai • Tohoku
@@ -53,7 +53,7 @@ DESCRIPTION:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-ja
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261106T160000Z
 DTEND:20261109T000000Z
 SUMMARY:Pokémon GO Wild Area 2026: Mexico City
@@ -63,7 +63,7 @@ DESCRIPTION:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-ci
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-london-2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261110T180000Z
 DTEND:20261110T223000Z
 SUMMARY:Pokémon Night Out 2026 - London
@@ -72,7 +72,7 @@ DESCRIPTION:https://leekduck.com/events/pokemon-night-out-london-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261109T160000Z
 DTEND:20261114T020000Z
 SUMMARY:Into the Wild
@@ -81,7 +81,7 @@ DESCRIPTION:https://leekduck.com/events/into-the-wild-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261114T160000Z
 DTEND:20261116T000000Z
 SUMMARY:Pokémon GO Wild Area 2026: Global
@@ -90,7 +90,7 @@ DESCRIPTION:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-leonids-2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261114T230000Z
 DTEND:20261120T055900Z
 SUMMARY:Minior Showers: Leonids 2026
@@ -99,7 +99,7 @@ DESCRIPTION:https://leekduck.com/events/minior-showers-leonids-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
 SUMMARY:Pawniard Community Day
@@ -108,7 +108,7 @@ DESCRIPTION:https://leekduck.com/events/november-communityday2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-trails-2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261116T160000Z
 DTEND:20261124T020000Z
 SUMMARY:Dynamax Trails
@@ -117,7 +117,7 @@ DESCRIPTION:https://leekduck.com/events/dynamax-trails-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261124T160000Z
 DTEND:20261201T020000Z
 SUMMARY:Twilight Wishes
@@ -126,7 +126,7 @@ DESCRIPTION:https://leekduck.com/events/twilight-wishes-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20261211T230000Z
 DTEND:20261217T055900Z
 SUMMARY:Minior Showers: Geminids 2026
@@ -135,7 +135,7 @@ DESCRIPTION:https://leekduck.com/events/minior-showers-geminids-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20270218T160000Z
 DTEND:20270221T155959Z
 SUMMARY:Pokémon GO Tour: Alola - Kaohsiung 2027
@@ -145,7 +145,7 @@ DESCRIPTION:https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-202
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20270219T080000Z
 DTEND:20270222T075959Z
 SUMMARY:Pokémon GO Tour: Alola - Los Angeles 2027
@@ -155,7 +155,7 @@ DESCRIPTION:https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20270227T060000Z
 DTEND:20270301T055959Z
 SUMMARY:Pokémon GO Tour: Alola - Global 2027
@@ -164,7 +164,7 @@ DESCRIPTION:https://leekduck.com/events/pokemon-go-tour-alola-global-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20270503T220000Z
 DTEND:20270509T045900Z
 SUMMARY:Minior Showers: Eta Aquariids 2027
@@ -173,7 +173,7 @@ DESCRIPTION:https://leekduck.com/events/minior-showers-eta-aquariids-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20270728T220000Z
 DTEND:20270803T045900Z
 SUMMARY:Minior Showers: Southern Delta Aquariids 2027
@@ -184,7 +184,7 @@ DESCRIPTION:https://leekduck.com/events/minior-showers-southern-delta-aquar
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027@pokemon-go-calendar
-DTSTAMP:20261023T024730Z
+DTSTAMP:20261023T150738Z
 DTSTART:20270810T220000Z
 DTEND:20270816T045900Z
 SUMMARY:Minior Showers: Perseids 2027
