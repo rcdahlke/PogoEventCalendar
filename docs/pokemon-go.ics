@@ -6,35 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pokémon GO Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:pokemon-go-wild-area-2026-sendai-japan@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
-DTSTART:20261106T010000Z
-DTEND:20261108T090000Z
-SUMMARY:Pokémon GO Wild Area 2026: Sendai • Tohoku
-URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
-DESCRIPTION:Gigantamax Duraludon\, Dynamax Dialga\, and Dynamax Palkia debu
- t in Pokémon GO Wild Area 2026. Ticket holders can encounter Hisuian Slig
- goo and Hisuian Goodra\, participate in rotating Steel- and Dragon-type ha
- bitat hours\, and collect GO Safari Balls for challenging encounters.\n\nh
- ttps://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-go-wild-area-2026-mexico-city@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
-DTSTART:20261106T160000Z
-DTEND:20261109T000000Z
-SUMMARY:Pokémon GO Wild Area 2026: Mexico City
-URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
-DESCRIPTION:Gigantamax Duraludon\, Dynamax Dialga\, and Dynamax Palkia debu
- t in Pokémon GO Wild Area 2026: Mexico City alongside Steel- and Dragon-t
- ype encounters and mighty Pokémon. Ticket holders can collect GO Safari B
- alls\, participate in rotating habitat hours\, and encounter costumed Mach
- amp\, Hisuian Sliggoo\, and Hisuian Goodra with chances for Shiny forms.\n
- \nhttps://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-night-out-london-2026@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20261110T180000Z
 DTEND:20261110T223000Z
 SUMMARY:Pokémon Night Out 2026 - London
@@ -50,34 +23,29 @@ DESCRIPTION:Attendees at the venue can experience special Pokémon GO gamep
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-2026@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20261109T160000Z
 DTEND:20261114T020000Z
 SUMMARY:Into the Wild 2026
 URL:https://leekduck.com/events/into-the-wild-2026/
 DESCRIPTION:Regidrago makes its Dynamax debut in five-star Max Battles\, an
- d Dynamax Meltan debuts via the free GO Pass. Crowned Sword Zacian and Cro
- wned Shield Zamazenta appear in five-star raids and feature Raid Hours on 
- November 9 and November 10 respectively\, awarding special energy upon def
- eat.\n\nhttps://leekduck.com/events/into-the-wild-2026/
+ d Dynamax Meltan debuts in GO Pass: Into the Wild. Crowned Sword Zacian an
+ d Crowned Shield Zamazenta appear in five-star raids while offering chance
+ s at a new Special Background.\n\nhttps://leekduck.com/events/into-the-wil
+ d-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20261114T160000Z
 DTEND:20261116T000000Z
 SUMMARY:Pokémon GO Wild Area 2026: Global
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
-DESCRIPTION:Gigantamax Duraludon\, Dynamax Dialga\, and Dynamax Palkia make
-  their Pokémon GO debuts during the event. Trainers can collect GO Safari
-  Balls from PokéStops and Gyms to help catch challenging Steel- and Drago
- n-type encounters and powerful mighty Pokémon. An optional ticket adds br
- anching Special Research\, increased Shiny chances\, and hourly Supply Bal
- loons.\n\nhttps://leekduck.com/events/pokemon-go-wild-area-2026-global/
+DESCRIPTION:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-leonids-2026@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20261114T230000Z
 DTEND:20261120T055900Z
 SUMMARY:Minior Showers: Leonids 2026
@@ -91,7 +59,7 @@ DESCRIPTION:Encounter Minior in its Meteor Form in the wild and receive 1\,
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
 SUMMARY:Pawniard Community Day
@@ -106,22 +74,22 @@ DESCRIPTION:Pawniard will appear more frequently in the wild and from regul
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-trails-2026@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20261116T160000Z
 DTEND:20261124T020000Z
 SUMMARY:Dynamax Trails
 URL:https://leekduck.com/events/dynamax-trails-2026/
-DESCRIPTION:Dynamax Pokémon return and Max Particles surge in the wild\, w
- ith a chance to receive Special Backgrounds after catching Pokémon from M
- ax Battles. Grookey\, Scorbunny\, and Sobble feature in Spotlight Hour on 
- November 19 from 6 pm to 7 pm with 2× Catch Candy. Eternamax Eternatus ta
- kes over Power Spots on November 21 from 11 am to 2 pm\, offering increase
- d Max Particles and rewards.\n\nhttps://leekduck.com/events/dynamax-trails
- -2026/
+DESCRIPTION:Dynamax Pokémon and surging Max Particles appear in the wild\,
+  while Max Battles feature all previously released Dynamax Pokémon except
+  Legendaries and Mythicals with a chance for Special Backgrounds. Eternama
+ x Eternatus takes over Power Spots on November 21 from 11 am to 2 pm local
+  time\, awarding Eternatus Candy and Candy XL. Grookey\, Scorbunny\, and S
+ obble are featured in Spotlight Hour on November 19 with 2x Catch Candy.\n
+ \nhttps://leekduck.com/events/dynamax-trails-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20261124T160000Z
 DTEND:20261201T020000Z
 SUMMARY:Twilight Wishes
@@ -134,7 +102,7 @@ DESCRIPTION:Encounter featured Pokémon like Espeon wearing a sun scarf\, U
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20261211T230000Z
 DTEND:20261217T055900Z
 SUMMARY:Minior Showers: Geminids 2026
@@ -147,7 +115,7 @@ DESCRIPTION:Explore by starlight during the Geminids meteor shower to encou
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20270218T160000Z
 DTEND:20270221T155959Z
 SUMMARY:Pokémon GO Tour: Alola - Kaohsiung 2027
@@ -160,7 +128,7 @@ DESCRIPTION:Join fellow Trainers in Kaohsiung\, Taiwan\, for a real-world P
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20270219T080000Z
 DTEND:20270222T075959Z
 SUMMARY:Pokémon GO Tour: Alola - Los Angeles 2027
@@ -173,7 +141,7 @@ DESCRIPTION:Join a real-world\, in-person Pokémon GO Tour event in Los Ang
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20270227T060000Z
 DTEND:20270301T055959Z
 SUMMARY:Pokémon GO Tour: Alola - Global 2027
@@ -185,7 +153,7 @@ DESCRIPTION:Join the global finale of Pokémon GO Tour 2027 to celebrate th
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20270503T220000Z
 DTEND:20270509T045900Z
 SUMMARY:Minior Showers: Eta Aquariids 2027
@@ -200,7 +168,7 @@ DESCRIPTION:Encounter Minior in its Meteor Form in the wild during the even
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20270728T220000Z
 DTEND:20270803T045900Z
 SUMMARY:Minior Showers: Southern Delta Aquariids 2027
@@ -214,11 +182,16 @@ DESCRIPTION:Encounter Minior in its Meteor Form in the wild and receive 1\,
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027@pokemon-go-calendar
-DTSTAMP:20261108T164317Z
+DTSTAMP:20261109T204740Z
 DTSTART:20270810T220000Z
 DTEND:20270816T045900Z
 SUMMARY:Minior Showers: Perseids 2027
 URL:https://leekduck.com/events/minior-showers-perseids-2027/
-DESCRIPTION:https://leekduck.com/events/minior-showers-perseids-2027/
+DESCRIPTION:Enjoy increased Stardust—1\,000 per catch—and a higher chan
+ ce to encounter Minior in the wild each day from 5:00 p.m. to 9:00 p.m. lo
+ cal time. Minior begins battles in its Meteor Form and exposes its core wh
+ en health drops below 50% during specific battles. Seven different core co
+ lors will debut across various meteor showers.\n\nhttps://leekduck.com/eve
+ nts/minior-showers-perseids-2027/
 END:VEVENT
 END:VCALENDAR
