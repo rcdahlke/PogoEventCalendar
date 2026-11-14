@@ -6,49 +6,37 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pokémon GO Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:into-the-wild-2026@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
-DTSTART:20261109T160000Z
-DTEND:20261114T020000Z
-SUMMARY:Into the Wild 2026
-URL:https://leekduck.com/events/into-the-wild-2026/
-DESCRIPTION:Regidrago makes its Dynamax debut in five-star Max Battles and 
- Meltan debuts in GO Pass: Into the Wild. Crowned Sword Zacian and Crowned 
- Shield Zamazenta appear in five-star raids\, offering a chance at special 
- event backgrounds and exclusive adventure effects upon completing the glob
- al challenge.\n\nhttps://leekduck.com/events/into-the-wild-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20261114T160000Z
 DTEND:20261116T000000Z
 SUMMARY:Pokémon GO Wild Area 2026: Global
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
-DESCRIPTION:The Pokémon GO Wild Area 2026: Global event features the debut
- s of Gigantamax Duraludon\, Dynamax Dialga\, and Dynamax Palkia\, alongsid
- e Steel- and Dragon-type rotating habitat hours. Trainers can collect GO S
- afari Balls from PokéStops to help catch challenging mighty Pokémon and 
- enjoy various raid\, Max Battle\, and ticketed bonuses.\n\nhttps://leekduc
- k.com/events/pokemon-go-wild-area-2026-global/
+DESCRIPTION:Gigantamax Duraludon\, Dynamax Dialga\, and Dynamax Palkia make
+  their Pokémon GO debuts alongside Steel- and Dragon-type encounters\, ro
+ tating habitat hours\, and powerful mighty Pokémon. Trainers can collect 
+ GO Safari Balls from PokéStops and Gyms to help catch challenging event e
+ ncounters. An optional ticket adds branching Special Research\, increased 
+ Shiny chances\, extra Incense encounters\, and hourly Supply Balloons.\n\n
+ https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-leonids-2026@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20261114T230000Z
 DTEND:20261120T055900Z
 SUMMARY:Minior Showers: Leonids 2026
 URL:https://leekduck.com/events/minior-showers-leonids-2026/
-DESCRIPTION:Encounter Minior in its Meteor Form in the wild and receive 1\,
- 000 Stardust for catching it. Shooting stars light up the in-game sky from
-  5:00 p.m. to 9:00 p.m. local time daily\, offering increased chances to e
- ncounter Minior. Minior begins battles in its Meteor Form and changes form
-  when its health drops below 50%.\n\nhttps://leekduck.com/events/minior-sh
- owers-leonids-2026/
+DESCRIPTION:Minior (Yellow Core) makes its Pokémon GO debut in the wild in
+  its Meteor Form. Encounter rates for Minior increase in the wild daily fr
+ om 5:00 p.m. to 9:00 p.m. local time\, and catching Minior awards 1\,000 S
+ tardust. Minior begins battles in Meteor Form and changes form when health
+  drops below 50% in Team GO Rocket\, team leader\, or GO Battle League bat
+ tles.\n\nhttps://leekduck.com/events/minior-showers-leonids-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
 SUMMARY:Pawniard Community Day
@@ -63,20 +51,21 @@ DESCRIPTION:Pawniard will appear more frequently in the wild and from regul
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-trails-2026@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20261116T160000Z
 DTEND:20261124T020000Z
 SUMMARY:Dynamax Trails
 URL:https://leekduck.com/events/dynamax-trails-2026/
-DESCRIPTION:Dynamax Pokémon return and Max Particles surge in the wild. Gr
- ookey\, Scorbunny\, and Sobble are featured during Spotlight Hour on Novem
- ber 19 with 2× Catch Candy. Eternamax Eternatus takes over Power Spots on
-  November 21 from 11 am to 2 pm local time\, offering increased Max Partic
- les and rewards.\n\nhttps://leekduck.com/events/dynamax-trails-2026/
+DESCRIPTION:Dynamax Pokémon return to Max Battles and wild encounters feat
+ ure a chance for Special Backgrounds. Grookey\, Scorbunny\, and Sobble are
+  featured during the Spotlight Hour on November 19 with 2x Catch Candy. Et
+ ernamax Eternatus takes over Power Spots on November 21 from 11 am to 2 pm
+  local time\, awarding large amounts of Candy and Candy XL.\n\nhttps://lee
+ kduck.com/events/dynamax-trails-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20261124T160000Z
 DTEND:20261201T020000Z
 SUMMARY:Twilight Wishes
@@ -89,7 +78,7 @@ DESCRIPTION:Encounter featured Pokémon like Espeon wearing a sun scarf\, U
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2026@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20261212T200000Z
 DTEND:20261213T230000Z
 SUMMARY:December Community Day
@@ -99,20 +88,22 @@ DESCRIPTION:Stay tuned for more details regarding the December Community Da
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20261211T230000Z
 DTEND:20261217T055900Z
 SUMMARY:Minior Showers: Geminids 2026
 URL:https://leekduck.com/events/minior-showers-geminids-2026/
-DESCRIPTION:Explore by starlight during the Geminids meteor shower to encou
- nter Minior in Pokémon GO. Shooting stars light up the in-game sky from 5
- :00 p.m. to 9:00 p.m. local time daily\, offering increased chances to enc
- ounter Minior in the wild. Players will receive 1\,000 Stardust for catchi
- ng Minior.\n\nhttps://leekduck.com/events/minior-showers-geminids-2026/
+DESCRIPTION:Encounter Minior in its Meteor Form in the wild during the even
+ t\, with an increased chance of encounters from 5:00 p.m. to 9:00 p.m. loc
+ al time daily when shooting stars light up the in-game sky. Catching Minio
+ r awards 1\,000 Stardust. Minior begins battles in Meteor Form and changes
+  form to expose its core when health drops below 50% in battles against Te
+ am GO Rocket\, team leaders\, or in the GO Battle League.\n\nhttps://leekd
+ uck.com/events/minior-showers-geminids-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2026@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20261226T170000Z
 DTEND:20261226T230000Z
 SUMMARY:Hatch Day
@@ -121,7 +112,7 @@ DESCRIPTION:https://leekduck.com/events/hatch-day-december-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:January Community Day Classic
@@ -132,7 +123,7 @@ DESCRIPTION:Stay tuned for more details regarding the upcoming January Comm
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:January Community Day
@@ -142,7 +133,7 @@ DESCRIPTION:Stay tuned for more details regarding the upcoming January Comm
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:February Community Day
@@ -153,7 +144,7 @@ DESCRIPTION:Stay tuned for more details regarding the February Community Da
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270218T160000Z
 DTEND:20270221T155959Z
 SUMMARY:Pokémon GO Tour: Alola - Kaohsiung 2027
@@ -166,7 +157,7 @@ DESCRIPTION:Join fellow Trainers in Kaohsiung\, Taiwan\, for a real-world P
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270219T080000Z
 DTEND:20270222T075959Z
 SUMMARY:Pokémon GO Tour: Alola - Los Angeles 2027
@@ -179,7 +170,7 @@ DESCRIPTION:Join a real-world\, in-person Pokémon GO Tour event in Los Ang
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270227T060000Z
 DTEND:20270301T055959Z
 SUMMARY:Pokémon GO Tour: Alola - Global 2027
@@ -191,45 +182,43 @@ DESCRIPTION:Join the global finale of Pokémon GO Tour 2027 to celebrate th
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270503T220000Z
 DTEND:20270509T045900Z
 SUMMARY:Minior Showers: Eta Aquariids 2027
 URL:https://leekduck.com/events/minior-showers-eta-aquariids-2027/
-DESCRIPTION:Encounter Minior in its Meteor Form in the wild during the even
- t\, with increased encounter rates daily from 5:00 p.m. to 9:00 p.m. local
-  time as shooting stars light up the in-game sky. Receive 1\,000 Stardust 
- for catching Minior. Minior begins battles in its Meteor Form and changes 
- form when its health drops below 50%\, initially only when battling Team G
- O Rocket\, team leaders\, or in the GO Battle League.\n\nhttps://leekduck.
- com/events/minior-showers-eta-aquariids-2027/
+DESCRIPTION:Explore by starlight from 5:00 p.m. to 9:00 p.m. local time dai
+ ly for an increased chance to encounter Minior in its Meteor Form in the w
+ ild. Catching Minior awards 1\,000 Stardust. Minior begins battles in Mete
+ or Form and changes form to expose its core when health drops below 50% du
+ ring battles against Team GO Rocket\, team leaders\, or in the GO Battle L
+ eague.\n\nhttps://leekduck.com/events/minior-showers-eta-aquariids-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270728T220000Z
 DTEND:20270803T045900Z
 SUMMARY:Minior Showers: Southern Delta Aquariids 2027
 URL:https://leekduck.com/events/minior-showers-southern-delta-aquariids-202
  7/
-DESCRIPTION:Encounter Minior in its Meteor Form in the wild and receive 1\,
- 000 Stardust for each catch. Enjoy an increased chance of encountering Min
- ior from 5:00 p.m. to 9:00 p.m. local time each day as shooting stars ligh
- t up the in-game sky.\n\nhttps://leekduck.com/events/minior-showers-southe
- rn-delta-aquariids-2027/
+DESCRIPTION:Enjoy increased Stardust\, earning 1\,000 Stardust for catching
+  Minior. Encounter Minior in its Meteor Form in the wild\, with an increas
+ ed chance to encounter it from 5:00 p.m. to 9:00 p.m. local time each day 
+ when shooting stars light up the in-game sky.\n\nhttps://leekduck.com/even
+ ts/minior-showers-southern-delta-aquariids-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027@pokemon-go-calendar
-DTSTAMP:20261113T174605Z
+DTSTAMP:20261114T163817Z
 DTSTART:20270810T220000Z
 DTEND:20270816T045900Z
 SUMMARY:Minior Showers: Perseids 2027
 URL:https://leekduck.com/events/minior-showers-perseids-2027/
-DESCRIPTION:Enjoy increased Stardust—1\,000 per catch—and a higher chan
- ce to encounter Minior in the wild each day from 5:00 p.m. to 9:00 p.m. lo
- cal time. Minior begins battles in its Meteor Form and exposes its core wh
- en health drops below 50% during specific battles. Seven different core co
- lors will debut across various meteor showers.\n\nhttps://leekduck.com/eve
- nts/minior-showers-perseids-2027/
+DESCRIPTION:Encounter Minior in its Meteor Form in the wild and receive 1\,
+ 000 Stardust for catching it. Enjoy an increased chance to encounter Minio
+ r daily from 5:00 p.m. to 9:00 p.m. local time\, when shooting stars light
+  up the in-game sky.\n\nhttps://leekduck.com/events/minior-showers-perseid
+ s-2027/
 END:VEVENT
 END:VCALENDAR
