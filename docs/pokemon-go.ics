@@ -7,30 +7,30 @@ X-WR-CALNAME:Pokémon GO Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 UID:dynamax-trails-2026@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20261116T160000Z
 DTEND:20261124T020000Z
 SUMMARY:Dynamax Trails
 URL:https://leekduck.com/events/dynamax-trails-2026/
-DESCRIPTION:https://leekduck.com/events/dynamax-trails-2026/
+DESCRIPTION:Catching wild Pokémon awards 10 Max Particles during the week.
+  On November 19\, Grookey\, Scorbunny\, and Sobble are featured during Spo
+ tlight Hour with 2x Catch Candy. Eternamax Eternatus takes over Power Spot
+ s on November 21 from 11 am to 2 pm local time\, offering increased Max Pa
+ rticle limits\, refreshed Power Spots\, and Eternatus Candy and Candy XL r
+ ewards.\n\nhttps://leekduck.com/events/dynamax-trails-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20261124T160000Z
 DTEND:20261201T020000Z
 SUMMARY:Twilight Wishes
 URL:https://leekduck.com/events/twilight-wishes-2026/
-DESCRIPTION:Encounter Espeon wearing a sun scarf\, Umbreon wearing a moon s
- carf\, and Rockruff\, with increased chances for Shiny Staryu and Shiny El
- gyem. Enjoy event-themed raids\, Field Research\, and GO Pass rewards. Fiv
- e-star raids feature Cresselia and Darkrai until November 24\, followed by
-  Deoxys forms starting November 25.\n\nhttps://leekduck.com/events/twiligh
- t-wishes-2026/
+DESCRIPTION:https://leekduck.com/events/twilight-wishes-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2026@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20261212T200000Z
 DTEND:20261213T230000Z
 SUMMARY:December Community Day 2026
@@ -43,7 +43,7 @@ DESCRIPTION:Catch up on 2026 Community Day Pokémon with different featured
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20261211T230000Z
 DTEND:20261217T055900Z
 SUMMARY:Minior Showers: Geminids 2026
@@ -58,7 +58,7 @@ DESCRIPTION:Encounter Minior in its Meteor Form in the wild during the even
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2026@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20261226T170000Z
 DTEND:20261226T230000Z
 SUMMARY:Hatch Day
@@ -69,7 +69,7 @@ DESCRIPTION:Stay tuned for more details regarding the Hatch Day event takin
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:January Community Day Classic
@@ -80,7 +80,7 @@ DESCRIPTION:Stay tuned for more details regarding the upcoming January Comm
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:January Community Day
@@ -91,16 +91,17 @@ DESCRIPTION:Stay tuned for more details regarding the January Community Day
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:February Community Day
 URL:https://leekduck.com/events/february-communityday2027/
-DESCRIPTION:https://leekduck.com/events/february-communityday2027/
+DESCRIPTION:Stay tuned for more details regarding the February Community Da
+ y event.\n\nhttps://leekduck.com/events/february-communityday2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270218T160000Z
 DTEND:20270221T155959Z
 SUMMARY:Pokémon GO Tour: Alola - Kaohsiung 2027
@@ -113,7 +114,7 @@ DESCRIPTION:Join fellow Trainers in Kaohsiung\, Taiwan\, for a real-world P
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270219T080000Z
 DTEND:20270222T075959Z
 SUMMARY:Pokémon GO Tour: Alola - Los Angeles 2027
@@ -126,7 +127,7 @@ DESCRIPTION:Join a real-world\, in-person Pokémon GO Tour event in Los Ang
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270227T060000Z
 DTEND:20270301T055959Z
 SUMMARY:Pokémon GO Tour: Alola - Global 2027
@@ -138,7 +139,7 @@ DESCRIPTION:Join the global finale of Pokémon GO Tour 2027 to celebrate th
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270503T220000Z
 DTEND:20270509T045900Z
 SUMMARY:Minior Showers: Eta Aquariids 2027
@@ -152,7 +153,7 @@ DESCRIPTION:Explore by starlight from 5:00 p.m. to 9:00 p.m. local time dai
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270728T220000Z
 DTEND:20270803T045900Z
 SUMMARY:Minior Showers: Southern Delta Aquariids 2027
@@ -168,7 +169,7 @@ DESCRIPTION:Encounter Minior in its Meteor Form in the wild during the Sout
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027@pokemon-go-calendar
-DTSTAMP:20261123T220520Z
+DTSTAMP:20261124T204107Z
 DTSTART:20270810T220000Z
 DTEND:20270816T045900Z
 SUMMARY:Minior Showers: Perseids 2027
